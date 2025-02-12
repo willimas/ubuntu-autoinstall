@@ -2,9 +2,9 @@
 autoinstall:
     version: 1
     identity:
-        realname: 'Dionatan Simioni'
+        realname: 'William Lima'
         hostname: ubuntu-desktop
-        username: diolinux
+        username: william
         password: '$y$j9T$b8jTBUu4kJlj2360DQSL21$BGrgjDqpSAQY/hCHlsADcRNFtok8qQSVN0A7kzI5N72'
     locale: pt_BR.utf8
     keyboard:
